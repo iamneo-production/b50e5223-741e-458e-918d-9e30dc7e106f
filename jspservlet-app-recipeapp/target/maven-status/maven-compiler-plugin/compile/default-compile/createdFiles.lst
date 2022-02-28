@@ -1,0 +1,3 @@
+model/Recipe.class
+service/RecipeDAO.class
+utility/ConnectionManager.class
